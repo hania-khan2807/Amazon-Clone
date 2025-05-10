@@ -4,7 +4,7 @@ A static front-end clone of the Amazon homepage built using HTML and CSS. This p
 
 ## Features
 
-- Fully responsive layout (optional if you added responsiveness)
+- Fully responsive layout 
 - Header with search bar and navigation links
 - Product categories with images
 - Deals and featured sections
